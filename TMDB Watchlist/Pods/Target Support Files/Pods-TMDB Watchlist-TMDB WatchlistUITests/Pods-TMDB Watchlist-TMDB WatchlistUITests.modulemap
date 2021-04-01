@@ -1,0 +1,6 @@
+framework module Pods_TMDB_Watchlist_TMDB_WatchlistUITests {
+  umbrella header "Pods-TMDB Watchlist-TMDB WatchlistUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

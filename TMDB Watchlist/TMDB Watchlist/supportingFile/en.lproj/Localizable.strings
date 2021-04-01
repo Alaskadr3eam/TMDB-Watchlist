@@ -1,0 +1,20 @@
+/* 
+  localize.strings
+  TMDB Watchlist
+
+  Created by Clément Martin on 31/03/2021.
+  
+*/
+"popularMovies" = "Popular movies";
+"warning" = "Warning";
+"watchList" = "Watch List";
+"messageNoList" = "Warning, network problem";
+"noWatchList" = "No movie save";
+"delete" = "Delete";
+"ok" = "Ok";
+"error" = "Error";
+"invalidDataProvider" = "Invalid data provider";
+"theRequestReturneAnError" = "The request returned an error";
+"theRequestReturnedABadResponse" = "The request returned a bad response";
+"noDataFound" = "No data found";
+"unexpectedData" = "Unexpected data";
